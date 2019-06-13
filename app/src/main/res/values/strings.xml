@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="tempStr">Tемпература воздуха:</string>
+    <string name="feelStr">Ощущаемая температура:</string>
+    <string name="humidityStr">Влажность воздуха:</string>
+    <string name="cloudStr">Осадки:</string>
+    <string name="pressure">Атмосферное давление:</string>
+    <string name="wind">Направление и скорость ветра:</string>
+</resources>
